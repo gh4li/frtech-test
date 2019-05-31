@@ -4,5 +4,5 @@ Ceci est un programme developpé en JavaScript par Abdelhadi Rhali, qui permet d
 
 # Description :
 
-Pour démarrer les tests : npm test.
-Pour éxecuter les instructions données en input : npm start.
+### Pour démarrer les tests : npm test.
+### Pour éxecuter les instructions données en input : npm start.
