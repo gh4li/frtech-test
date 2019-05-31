@@ -1,0 +1,24 @@
+{
+  "name": "francetesttech",
+  "version": "1.0.0",
+  "description": "Programme qui permet de manipuler l'automatisation d'une tondeuse à gazon.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "frtech-test"
+  },
+  "author": "Abdelhadi Rhali",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0",
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
